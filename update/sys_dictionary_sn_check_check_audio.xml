@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_check_check">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="audio" table="sn_check_check">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Audio</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,10 +27,10 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>audio</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="Audio">audio</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>sn_check_check</name>
@@ -50,18 +50,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-31 07:53:17</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>2cfe64cadba9664000a3ffefbf961919</sys_id>
+        <sys_created_on>2016-08-31 07:59:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d11fa4cadba9664000a3ffefbf9619f1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_check_check</sys_name>
+        <sys_name>Audio</sys_name>
         <sys_package display_value="Check" source="sn_check">4b9d2042c32122003357921bc3d3ae88</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Check">4b9d2042c32122003357921bc3d3ae88</sys_scope>
-        <sys_update_name>sys_dictionary_sn_check_check_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-08-31 07:58:41</sys_updated_on>
+        <sys_update_name>sys_dictionary_sn_check_check_audio</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-31 07:59:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

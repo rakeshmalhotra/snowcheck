@@ -6,7 +6,6 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on sn_check_check</description>
-        <express_security>false</express_security>
         <name>sn_check_check</name>
         <operation display_value="write">write</operation>
         <script/>

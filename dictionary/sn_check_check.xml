@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Check" max_length="40" name="sn_check_check" type="collection">
+        <element label="Audio" max_length="40" name="audio" type="audio"/>
         <element label="Test1" max_length="40" name="test1" type="string"/>
         <element label="Test2" max_length="40" name="test2" type="string"/>
     </element>
